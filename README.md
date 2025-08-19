@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=AyakDev&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=AyakDev&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 # 💫 About Me:
 I am a 17-year-old vocational high school student from Bali with a keen interest in web programming and technology. Over the past few years, I have learned the basics of web development, including HTML, CSS, and JavaScript, and explored backend development with Laravel.<br><br>I have completed several projects, designing websites for e-commerce platforms and learning management systems. These experiences have honed my skills and deepened my understanding of web development.<br><br>I am highly motivated to collaborate with other developers and seek partnerships with companies to expand my knowledge and contribute to meaningful projects.<br><br>My passion for technology drives me to continuously improve and innovate, and I am eager to embrace new challenges and opportunities in web development.
 
