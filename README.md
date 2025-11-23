@@ -8,7 +8,7 @@ I am a student at Politeknik Negeri Bali with a strong passion for programming a
 [![My Skills](https://skillicons.dev/icons?i=nextjs,laravel,tailwindcss,react,express)](https://skillicons.dev)
 
 # 💻 Tech Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,bootstrap,php,nextjs,laravel,tailwind,react,python,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,bootstrap,php,nextjs,laravel,tailwind,java,react,python,express)](https://skillicons.dev)
 
 # 🎮 Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github,gitlab,mint,vscode,arduino)](https://skillicons.dev)
